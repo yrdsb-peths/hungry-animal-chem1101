@@ -1,9 +1,9 @@
 #Greenfoot project file
 class.Elephant.image=elephant_idle.png
-editor.fx.0.height=0
-editor.fx.0.width=0
-editor.fx.0.x=0
-editor.fx.0.y=0
+editor.fx.0.height=739
+editor.fx.0.width=816
+editor.fx.0.x=-32000
+editor.fx.0.y=-32000
 height=729
 package.numDependencies=0
 package.numTargets=2
@@ -36,7 +36,7 @@ target2.width=80
 target2.x=0
 target2.y=0
 version=3.0.0
-width=1475
+width=837
 world.lastInstantiated=MyWorld
-xPosition=223
-yPosition=213
+xPosition=1055
+yPosition=182
